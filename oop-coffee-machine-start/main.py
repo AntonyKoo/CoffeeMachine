@@ -3,7 +3,6 @@ from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 
 # TODO 1 : Print Report.
-#
 # resources & money
 coffee_maker = CoffeeMaker()  # Initialize the Class
 money_machine = MoneyMachine()  # Initialize the Class
